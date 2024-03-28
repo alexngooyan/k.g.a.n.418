@@ -1,1 +1,2 @@
-# k.g.a.n.418
+# 15418 Project
+Kaiwen Geng and Alex Nguyen
